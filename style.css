@@ -1,0 +1,29 @@
+.div,
+iframe {
+  width: 50% !important;
+  margin: auto;
+  display: block;
+  border: 1px solid #ccc;
+}
+iframe {
+  height: 600px !important;
+    padding: 80px;
+}
+.div{
+  border: none;
+  margin-bottom: 10px;
+      width: 50% !important;
+  margin: auto;
+  display: block;
+  border: 1px solid #ccc;
+}
+button,
+input,
+select {
+  margin: 5px;
+    overflow: none;
+    border-color: blueviolet;
+    border-width: thin;
+    border-style: solid;
+    cursor: pointer;
+}
